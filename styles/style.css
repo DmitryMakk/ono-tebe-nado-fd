@@ -339,7 +339,8 @@
     display: flex;
     justify-content: space-between;
     padding-left: 50px;
-    padding-right: 50px
+    padding-right: 50px;
+    height: 180px
   }
 
   .footer-address {
@@ -352,7 +353,7 @@
     align-items: center;
     list-style: none;
   }
-  
+
   .footer__social-list {
     display: flex;
     list-style: none;
