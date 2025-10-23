@@ -146,7 +146,6 @@
   height: 723px;
   margin-bottom: 120px;
   justify-content: space-between;
-  display: flex;
 }
 
 .lots__heading {
@@ -178,12 +177,6 @@
 
 .lots__card-list-item {
   min-height: 596px;
-}
-
-.lots__look-more-link {
-  padding-top: 300px;
-  text-transform:lowercase ;
-  font-size: 20px;
 }
 
 .card-link {
@@ -287,6 +280,8 @@
     font-weight: normal;
     font-size: 20px;
     text-decoration: underline;
+    padding-top: 300px;
+    text-transform: lowercase ;
   }
 
   .about {
