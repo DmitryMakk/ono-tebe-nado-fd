@@ -136,7 +136,6 @@
   position: relative;
 }
 
-
 .lots {
   display: flex;
   flex-direction: column;
@@ -159,7 +158,6 @@
   text-transform: uppercase;
   color: #000000;
   padding-left: 40px;
-  font-size: 40px;
 }
 
 .lots__card-list {
@@ -275,12 +273,10 @@
 
 .lots__look-more-link {
     padding-left: 40px;
-    padding-top: 30px;
     font-family: Raleway, sans-serif;
     font-weight: normal;
     font-size: 20px;
     text-decoration: underline;
-    padding-top: 300px;
     text-transform: lowercase ;
   }
 
