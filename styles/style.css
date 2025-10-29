@@ -10,6 +10,7 @@
   width: 148px;
   height: 105px;
   margin-right: 184px;
+  margin-left: 36.52px
 }
 
 .header__menu-list {
@@ -18,7 +19,7 @@
   font-family: Raleway, sans-serif;
   font-style: normal;
   display: flex;
-  gap: 35px;
+  gap: 30px;
 }
 
 .address {
@@ -134,13 +135,13 @@
 .description-top-center {
   align-self: center;
   display: flex;
-  margin-left: -30px
+  margin-left: -60px
 }
 
 .description-top-end {
   align-self: flex-end;
   display: flex;
-  margin-left: -30px
+  margin-left: -60px
 }
 
 .description-bottom {
@@ -202,6 +203,7 @@
   text-transform: uppercase;
   color: #000000;
   padding-left: 40px;
+  margin-bottom: 27px;
 }
 
 .lots__card-list {
@@ -238,7 +240,7 @@
   height: 100%;
   background-size: cover;
   background-position: center;
-  text-decoration-thickness: 5px;
+  text-decoration-thickness: px;
 }
 
 .card_type_picture {
@@ -306,6 +308,8 @@
   font-size: 20px;
   text-decoration: underline;
   text-transform: lowercase;
+  line-height: 100%;
+  text-underline-offset: 5px
 }
 
 .about {
