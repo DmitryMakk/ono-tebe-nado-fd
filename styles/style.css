@@ -130,7 +130,6 @@
   display: flex;
 } 
 
-
 .description-top-center {
   align-self: center;
   display: flex;
@@ -138,9 +137,9 @@
 }
 
 .description-top-end {
-  align-self: flex-en;
+  align-self: flex-end;
   display: flex;
-  margin-left: 613px
+  margin-right: -44.5px
 }
 
 .description-bottom {
