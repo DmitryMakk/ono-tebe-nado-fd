@@ -306,6 +306,7 @@
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 1;
   margin-bottom: 180px;
+  gap: 72px
 }
 
 .about__logo-image {
