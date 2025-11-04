@@ -114,7 +114,7 @@
   padding-top: 165px;
   padding-bottom: 50px;
   justify-content: space-between;
-  gap: 106px;
+  ga: 106px;
 }
 
 .description-top {
@@ -129,6 +129,7 @@
   font-size: 100px;
   letter-spacing: 30px;
   line-height: 130%;
+  margin-bottom: 100px;
 }
 
 .description-top-start {
