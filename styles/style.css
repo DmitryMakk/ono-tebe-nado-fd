@@ -10,6 +10,7 @@
   width: 148px;
   height: 105px;
   margin-right: 184px;
+  margin-left:36.52px
 }
 
 .header__menu-list {
@@ -19,17 +20,18 @@
   font-style: normal;
   display: flex;
   gap: 30px;
+  width: 391.48px
 }
 
 .address {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: normal;
   font-family: Raleway, "Inter", sans-serif;
   font-style: normal;
   justify-self: end;
   display: flex;
   flex-direction: column;
-  width: 264.57px;
+  width: 240px;
   min-height: 98px;
 }
 
@@ -70,7 +72,7 @@
 
 .header_menu {
   margin-left: 50px;
-  margin-right: 36.52px;
+  margin-right: -9.445px
 }
 
 .cover {
@@ -139,7 +141,7 @@
 .description-top-center {
   align-self: center;
   display: flex;
-  margin-left: 44.5px;
+  margin-left: 30px;
 }
 
 .description-top-end {
@@ -159,7 +161,8 @@
 }
 
 .description-bottom-left {
-  word-spacing: 25px;
+  word-spacing: 18px;
+  width: 637px
 }
 
 .description-bottom-right {
@@ -306,7 +309,7 @@
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 1;
   margin-bottom: 180px;
-  gap: 72px
+  gap: 12px
 }
 
 .about__logo-image {
@@ -333,7 +336,7 @@
   position: relative;
   font-family: Raleway, sans-serif;
   font-weight: normal;
-  font-size: 20.1px;
+  font-size: 20.14px;
   gap: 24px;
 }
 
@@ -347,7 +350,7 @@ footer {
   display: flex;
   justify-content: space-between;
   padding-left: 50px;
-  padding-right: 50px;
+  padding-right: 60px;
   min-height: 180px;
 }
 
